@@ -4,7 +4,8 @@
 
 To run .c files, please follow the instructions
 
-Steps: 1. Download the .c file(s) which you want to run from the Repository 
+Steps: 
+1. Download the .c file(s) which you want to run from the Repository 
 2. Use your preferred IDE or migrate to a location where you can run C programs/codes 
 3. Change file permission using the command: chmod u+x filename.c 
 4. Compile the file you wished to run 
