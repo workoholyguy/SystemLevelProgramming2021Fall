@@ -1,0 +1,5 @@
+Mon Nov 29 14:53:38 EST 2021
+out.txt
+printf
+scanf
+/home/omadjitov1/labs/lab7/inlab

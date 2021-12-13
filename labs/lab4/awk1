@@ -1,0 +1,6 @@
+print{
+{
+sed -r 's/,([^,]*){3},/,/g' FILENAME 
+}
+}
+

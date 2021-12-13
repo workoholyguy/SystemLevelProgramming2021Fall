@@ -1,0 +1,5 @@
+Part 1: 
+Write a C program named as getMostFreqChar.c that finds the most frequent letter from  the input via ignoring the case sensitive and prints out its frequency. For example, sample  outputs could be like below  
+This is a list of courses. 
+CSC 1010 - COMPUTERS & APPLICATIONS 
+
